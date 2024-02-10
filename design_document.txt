@@ -1,0 +1,11 @@
+The website is now operational, though it's still largely a clone of the original distribution.
+Next steps should be reformatting the website, making it more unique. At minimum, the landing page should be cleaned up,
+and should contain the links I want visitors to see.
+
+At minimum, these links should include:
+ - a link to my GitHub account page;
+ - a link to my LinkedIn account page;
+ - a link to view/download my CV;
+
+Also:
+ - a picture of me :^)
