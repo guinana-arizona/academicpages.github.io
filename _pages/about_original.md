@@ -1,10 +1,8 @@
 ---
 permalink: /
-title: "Lorem Ipsum etc etc"
-author_profile: true
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: false
 redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 # :3
