@@ -83,7 +83,7 @@ author:
   name             : "Sophie Guinan"
   avatar           : "profile.png"
   bio              : "Computer Science student graduating in May 2024 and looking for a job"
-  location         : "Location"
+  location         : "United States"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/guinana-arizona"
+  github           : "guinana-arizona"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/sophie-guinan/
+  linkedin         : "sophie-guinan"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
