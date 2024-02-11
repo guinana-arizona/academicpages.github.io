@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sophie Guinan"
   avatar           : "profile.png"
-  bio              : "Computer Science student graduating in May 2024 and looking for a job"
+  bio              : "Computer Science student graduating in May 2024, and seeking a full-time job."
   location         : "United States"
   employer         :
   pubmed           : 
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
