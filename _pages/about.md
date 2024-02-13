@@ -11,7 +11,7 @@ redirect_from:
 
 Hello!
 
-My name is Sophie Guinan and I am currently an undergraduate computer science student at the University of Arizona. I graduate in May 2024, and am seeking a full-time software development job
+My name is Sophie Guinan and I am currently an undergraduate computer science student at the University of Arizona. I graduate in May 2024, and am seeking a full-time software development job.
 
 ## About the website
 
